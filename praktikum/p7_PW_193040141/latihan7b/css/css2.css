@@ -1,0 +1,27 @@
+/* Universal */
+h1, h3, .tengah {
+	text-align: center;
+}
+
+/* Login */
+.tabel {
+	margin: auto;
+	background-color: lightgrey;
+}
+
+.error {
+	color: red;
+	font-style: italic;
+}
+
+.tombol {
+	text-align: center;
+	background-color: green;
+	color: white;
+}
+
+/* Tambah */
+.kembali {
+	text-decoration: none;
+	color: white;
+}
