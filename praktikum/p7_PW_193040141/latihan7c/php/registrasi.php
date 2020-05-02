@@ -19,10 +19,12 @@
 <html>
 <head>
 	<title>Registrasi</title>
+	<link rel="stylesheet" type="text/css" href="../css/css2.css">
 </head>
 <body>
+	<h3>Registrasi</h3>
 	<form action="" method="post">
-		<table>
+		<table border="0" cellpadding="6" cellspacing="0" class="tabel">
 			<tr>
 				<td>
 					<label for="username">Username</label>
@@ -41,8 +43,12 @@
 					<input type="password" name="password">
 				</td>
 			</tr>
+			<tr>
+				<td colspan="3" class="tengah">
+					<button type="submit" name="register" class="tombol">Register</button>
+				</td>
+			</tr>
 		</table>
-		<button type="submit" name="register">Register</button>
 	</form>
 </body>
 </html>
