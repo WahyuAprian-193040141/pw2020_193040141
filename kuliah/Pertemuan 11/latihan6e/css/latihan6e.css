@@ -1,0 +1,28 @@
+img {
+	width: 150px;
+	height: 140px;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	text-align: left;
+	margin: auto;
+	background-color: lightyellow;
+}
+
+.tengah {
+	text-align: center;
+}
+
+.atas {
+	background-color: gold;
+}
+
+.opsi {
+	text-align: center;
+	background-color: green;
+	color: white;
+}
