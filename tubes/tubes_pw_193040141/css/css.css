@@ -1,0 +1,42 @@
+.foto {
+	height: 450px;
+}
+
+.foto2 {
+	width: 170px;
+	height: 160px;
+}
+
+.detail {
+	margin-top: 40px;
+}
+
+.kiri {
+	padding-left: 5cm;
+}
+
+form {
+	width:300px;
+	margin:50px auto;
+}
+.search {
+	padding:8px 15px;
+	background:rgba(50, 50, 50, 0.2);
+	border:0px solid #dbdbdb;
+}
+.button {
+	position:relative;
+	padding:6px 15px;
+	left:-8px;
+	border:2px solid #53bd84;
+	background-color:#53bd84;
+	color:#fafafa;
+}
+.button:hover  {
+	background-color:#fafafa;
+	color:#207cca;
+}
+
+.kaki {
+	padding: 10px;
+}

@@ -1,0 +1,22 @@
+.judul {
+  /* font-family: 'Merienda One', cursive; */
+  font-family: 'Dancing Script', cursive;
+}
+
+.jenis,
+.universal {
+  font-family: 'Jost', sans-serif;
+}
+
+.nama,
+.register {
+  font-family: 'Hind', sans-serif;
+}
+
+.kaki {
+  font-family: 'Gelasio', serif;
+}
+
+.buram {
+  font-family: 'Noto Serif', serif;
+}
